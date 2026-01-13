@@ -16,3 +16,11 @@
 /phpunit.xml
 /.phpunit.cache/
 ###< phpunit/phpunit ###
+
+###> symfony-docker ###
+/frankenphp
+/docs
+/README.md
+Dockerfile
+
+###< symfony-docker ###
