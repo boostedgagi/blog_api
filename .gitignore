@@ -22,5 +22,5 @@
 /docs
 /README.md
 Dockerfile
-
+/docker
 ###< symfony-docker ###
